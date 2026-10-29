@@ -1,0 +1,21 @@
+# Node Modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment Files
+.env
+.env.*
+!.env.example
+
+# Build Files
+dist/
+build/
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+.vscode/
